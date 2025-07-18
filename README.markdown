@@ -14,7 +14,7 @@ E-Shop is a fully responsive, feature-rich e-commerce website built with modern 
 - **Error Handling**: Robust client-side validation and error handling for localStorage operations and user inputs.
 
 ## Demo
-**Live** : [Click](https://github.com/mrsaurabh009)
+**Live** : [Click](https://mrsaurabh009.github.io/e-commerce-frontend/)
 
 
 ## Screenshots
