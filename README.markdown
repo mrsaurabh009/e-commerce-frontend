@@ -14,8 +14,8 @@ E-Shop is a fully responsive, feature-rich e-commerce website built with modern 
 - **Error Handling**: Robust client-side validation and error handling for localStorage operations and user inputs.
 
 ## Demo
+**Live** : [Click](https://github.com/mrsaurabh009)
 
-[Insert live demo link here, e.g., hosted on GitHub Pages, Netlify, or Vercel]
 
 ## Screenshots
 
@@ -100,11 +100,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-- **Author**: [Your Name]
-- **GitHub**: [Your GitHub Profile URL]
-- **Email**: [Your Email Address]
-- **Portfolio**: [Your Portfolio URL, if applicable]
+- **Author**: Saurabh Kumar
+- **GitHub**: [Profile](https://github.com/mrsaurabh009)
+- **LinkedIn**: [Profile](https://www.linkedin.com/in/mrsaurabh009)
 
 ---
 
-Built with 💻 and ☕ by [Your Name] to showcase frontend development skills.
+Built with 💻 and ☕ by Saurabh Kumar to showcase frontend development skills.
